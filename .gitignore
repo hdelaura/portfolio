@@ -21,3 +21,11 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+#Other
+vue.config.js
+.editorconfig
+.eslintrc.js
+.browserlistrc
+.postcss.config.js
+.babel.config.js
