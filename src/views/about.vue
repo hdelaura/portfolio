@@ -1,21 +1,21 @@
 <template>
 <body>
     <nav></nav>
-    <welcome></welcome>
+    <about></about>
     <!-- <footer></footer> -->
 </body>
 </template>
 
 <script>
 import nav from '../components/nav.vue'
-import welcome from '../components/welcome.vue'
+import about from '../components/about.vue'
 // import footer from '../components/footer.vue'
 
 export default {
-  name: 'home',
+  name: 'about',
   components: {
     nav,
-    welcome
+    about
   }
 }
 </script>
