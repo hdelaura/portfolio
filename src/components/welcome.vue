@@ -1,6 +1,6 @@
 <template>
 <div class="container">
-  <section class="section">
+  <section class="section is-large">
     <div class="columns is-mobile">
       <div class="column is-half">
         <div>-----   Haley DeLaura</div>
