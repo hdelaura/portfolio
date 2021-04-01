@@ -16,12 +16,12 @@
 </template>
 
 <script>
-  export default {
-    name: 'about',
-    props: {
-      msg: String
-    }
-  }
+  // export default {
+  //   name: 'about',
+  //   props: {
+  //     msg: String
+  //   }
+  // }
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

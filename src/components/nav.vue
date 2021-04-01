@@ -20,12 +20,12 @@
 </template>
 
 <script>
-  export default {
-    name: 'nav',
-    props: {
-      msg: String
-    }
-  }
+//   export default {
+//     name: 'nav',
+//     props: {
+//       msg: String
+//     }
+//   }
 </script>
 
 <style>
